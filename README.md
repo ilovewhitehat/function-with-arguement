@@ -1,1 +1,2 @@
-# function-with-arguement
+# collisionAlgorithm
+Algorithm to detect collision between two objects
